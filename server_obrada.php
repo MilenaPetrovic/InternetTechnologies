@@ -16,10 +16,9 @@
                 return $d;
             }
         ),
-        array( 'db' => 'idVlasnika', 'dt' => 0 ),
-        array( 'db' => 'ime',  'dt' => 1 ),
-        array( 'db' => 'prezime',  'dt' => 2 ),
-        array( 'db' => 'kontakt', 'dt' => 3 )
+        array( 'db' => 'ime',  'dt' => 0 ),
+        array( 'db' => 'prezime',  'dt' => 1 ),
+        array( 'db' => 'kontakt', 'dt' => 2 )
     );
     // SQL server connection information
     $sql_details = array(

@@ -28,9 +28,7 @@
     <script>
         $(document).ready(function() {
             $(".tabela").DataTable({
-                "columns": [{
-                        "title": "RB"
-                    },
+                "columns": [
                     {
                         "title": "Ime"
                     },
@@ -87,8 +85,7 @@
     <!-- Page Info end -->
 
     <div class="page-area categorie-page spad">
-        <div class="container">
-
+        <div class="ovaj">
             <table class="tabela hover">
                 <tbody>
                 </tbody>

@@ -841,15 +841,19 @@ ol {
 /* Razmena i Kolekcionari */
 
 .categorie-page {
-	padding-top: 160px;
+	padding-top: 80px;
 }
 
 .tabela{
 	margin: 0 auto;
-	width: 70%;
+	width: 100%;
 }
 
-.tabela 
+.ovaj{
+	margin: 0 auto;
+	width: 40%;
+	padding: 20px;
+}
 
 /*------------------
   Product page
